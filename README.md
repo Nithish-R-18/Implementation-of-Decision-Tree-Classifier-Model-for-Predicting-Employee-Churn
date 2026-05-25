@@ -73,5 +73,7 @@ plt.show()
 <img width="603" height="351" alt="ml ex 8" src="https://github.com/user-attachments/assets/8c2c0eec-0b78-4a24-ac75-4af7393f9cf4" />
 
 
+<img width="1196" height="616" alt="ml ex 8 1" src="https://github.com/user-attachments/assets/887583c8-e244-481e-a612-d01d8b679dc7" />
+
 ## Result:
 Thus the program to implement the  Decision Tree Classifier Model for Predicting Employee Churn is written and verified using python programming.
